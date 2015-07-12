@@ -1,0 +1,4 @@
+﻿<cfcomponent extends="controller">
+	
+
+</cfcomponent>

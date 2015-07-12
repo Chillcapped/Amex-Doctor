@@ -1,0 +1,142 @@
+#topContactContainer ul{
+	float:left;
+}
+
+#customCompQuestion{
+	float:left;
+	width:550px;
+	height:200px;
+}
+
+#topCustomCompFormContainer label{
+	float: left;
+	margin-right: 16px;
+}
+
+
+#topCustomCompFormContainer  ul li{
+	float:left;	
+}
+.contactBtns{
+	width:340px;
+	margin:0 auto;
+	float:none !important;
+}
+
+/*
+	Custom Compound Inquiry
+	*/
+	#pleaseCallAlert{
+		float: left;
+		width: 433px;
+		margin-left: 182px;
+		background: #EFCA0E;
+	}
+
+	#customCompInquiryTop{
+		float: left;
+		clear: both;
+		margin-top: 18px;
+		width: 100%;
+		margin-bottom: 23px;
+	}
+
+	#customCompInquiryLabels{
+		float:left;
+		clear:both;
+		width:150px;
+	}
+
+	#customCompInquiryLabels ul{
+		margin-top: 0px;
+	}
+
+	#customCompInquiryLabels ul li{
+		float: left;
+		padding: 5px;
+		margin-bottom: 10px;
+	}
+	#customCompInquiryInputs{
+		float: left;
+		margin-left: 21px;
+		width: 475px;
+	}
+
+	#customCompInquiryInputs input{
+		padding: 5px;
+		width: 100%;
+	}
+
+	#customCompInquiryInputs textarea{
+		width: 100%;
+		margin-top: 10px;
+		height: 55px;
+	}
+
+	#btmCompoundInquiryBtns ul li{
+		float:left;
+		margin-right:50px;
+	}
+
+	#btmCompoundInquiryBtns{
+		float: left;
+		margin-left: 255px;
+	}
+
+	#btmCompoundInquiryAlert{
+		clear: both;
+		margin: auto;
+		width: 500px;
+	}
+
+	#addCustomInquiryIngBtn{
+		float:right;
+	}
+
+	.hiddenItem{
+		display:none;
+	}
+
+	#customCompInquiryTable input{
+		width: 100%;
+		padding: 5px;
+
+	}
+	#customCompInquiryTable table input{
+		border: 0;
+		width: 100%;
+		padding: 5px;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		background: white;
+
+	}
+
+	#customCompInquiryTable table tbody tr{
+
+	}
+	#customCompInquiryTable table tbody tr td{
+		border: 1px solid #bfbfbf;
+		border-right: 0px;
+	}
+	.customInquiryIngredientNameTD{
+		width: 350px;
+		position: absolute;
+	}
+
+
+	.customInquiryIngredientPercentTD{
+/*margin-left: 352px;
+position: absolute;
+padding-right: 0px !important;
+width: 151px;*/
+}
+
+.customInquiryIngredientPercentTD input{
+	padding-right: 0px;
+	width: 160px;
+}
+#compInquiryNameTD{
+	text-align: center;
+	vertical-align: middle;
+}

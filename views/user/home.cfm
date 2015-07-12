@@ -1,0 +1,1 @@
+﻿<cfinclude template="../portal_layouts/#lcase(application.roles[session.user.role].name)#/home.cfm"> 

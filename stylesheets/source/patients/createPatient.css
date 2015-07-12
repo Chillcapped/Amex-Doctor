@@ -1,0 +1,48 @@
+	#createPatientContainer label{
+float:left;
+clear:both;
+width:90px;
+font-size:12px;
+text-align: right;
+margin:5px 5px 0 0;
+	}
+	#createPatientContainer input{
+		padding:5px;
+		margin-bottom:5px;
+		float:left;
+		
+		/*border:1px solid #bfbfbf;*/
+	}
+	
+	#createPatientContainer{
+		float:left;
+		width:950px;
+	}
+	#createPatientContainer h4{
+		clear:both;
+		text-align: center;
+		margin:0 0 10px 0;
+		/*float:left;*/
+	}
+	
+	#createPatientBtn{
+		width:500px;
+		margin:0 auto 0 auto;
+		clear:both;
+	}
+#createPatientBtn .col{
+
+	width:250px;
+	float:left;
+		text-align: center;
+
+}
+
+	#createPatientBtn ul{
+		list-style:none;
+	}
+	#createPatientBtn ul li{
+		float:left; width: 150px;
+		padding:5px;
+	}
+	

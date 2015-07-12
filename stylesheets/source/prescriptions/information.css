@@ -1,0 +1,124 @@
+.prescriptionPopTopContent{
+	float: left;
+	width: 300px;
+}
+
+.prescriptionPopMiddleContent{
+	float: left;
+	width: 400px;
+}
+
+#prescriptionFullContainer{
+	width: 950px;
+}
+
+#prescriptionPopContents{
+	float: left;
+	clear: both;
+	width: 100%;
+}
+
+#prescriptionFullTopNav{
+	overflow:auto;
+	position:absolute;
+	top:-53px;
+}
+
+#prescriptionFullTopNav ul li{
+	width: 150px;
+	float: left;
+
+}
+
+#prescriptionTopDetails{
+	float: left;
+	/*clear: both;*/
+	/*width: 100%;*/
+}
+
+#prescriptionpopFullBtmBtns{
+	clear: both;
+}
+
+#prescriptionFullTopNav ul{
+	float: left;
+/*	margin-top: -40px;
+margin-left: -15px;*/
+}
+
+#prescriptionPopMiddleContent ul li input{
+	padding: 5px;
+	float: right;
+	width: 260px;
+}
+
+#headerSearchFilterContainer{
+	float: left;
+	width: 1035px;
+	margin-top: 25px;
+}
+
+.searchFilterItemContainer{
+	margin-right: 15px;
+	float:left;
+}
+
+.searchFilterItemContainer label{
+/*	float: left;
+	width: 100%;
+	clear: both;*/
+	font-weight: 700;
+	font-size: 0.80em;
+	margin-bottom: 10px;
+}
+
+.searchFilterItemContainer select{
+	width: 130px;
+	padding: 5px;
+		-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+
+.selectFilterContainer{
+
+/*	width: 15%;*/
+}
+
+.searchDateRangeContainer{
+	width: 160px;
+}
+
+.searchDateRangeContainer input{
+	width: 60px;
+}
+
+
+.ippFilterContainer{
+	width: 60px;
+}
+.ippFilterContainer select{
+	float: left;
+	width: 55px;
+	padding-right: 0px;
+}
+
+.searchQContainer input{
+	padding: 5px;
+	width: 100%;
+		-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.searchQBtn{
+	float: left;
+	margin-top: 22px;
+}
+
+.searchQContainer{
+	width: 190px;
+}
+
+

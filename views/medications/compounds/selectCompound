@@ -1,0 +1,31 @@
+﻿<!--- Select Compound Ajax --->
+
+<div id="selectCompoundContainer">
+	
+	<!--- If we dont have category, show list of Compound Categorys --->
+	<cfif !structKeyExists(params, "category")>
+		<div id="createRxCompoundCatContainer">
+			<h4>Compound Categories</h4>
+			<ul>
+				<!---- Loop Categories --->
+				<cfloop from="1" to="5" index="i">
+					<cfoutput>
+					<a href="javascript:showCompoundCategory('#i#')"><li>Category #i#  (3)</li></a>
+					</cfoutput>
+				</cfloop>
+			</ul>
+		</div>
+	<!--- If we have the category, show compounds in it --->
+	<cfelse>
+		<div id="createRxCompoundFormContainer">
+			<cfoutput>
+			<h4>Compounds in #params.category#</h4>
+			<ul>
+				<cfloop from="1" to="5" index="i">
+					<a href="javascript:addCompoundToRx('#i#')"><li>Compound #i#</li></a>
+				</cfloop>
+			</ul>
+			</cfoutput>
+		</div>	
+	</cfif>
+</div>

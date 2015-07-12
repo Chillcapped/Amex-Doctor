@@ -1,0 +1,156 @@
+#patientInfoPopContainer{
+	width:100%;
+	
+}
+
+#patInfoPopInformationContainer{
+	width:100%;
+}
+#patInfoPopGeneralInfo{
+
+}
+
+
+#patInfoPopBillingInfo{
+
+}
+
+#patInfoPopShippingInfo{
+
+}
+
+#patInfoPopInsuranceInfo{
+margin: auto;
+width: 100%;
+float: left;
+clear: both;
+}
+
+#patInfoPopOrderHistory{
+	float:left;
+	clear:both;
+	width:100%;
+}
+
+
+
+#patInfoPopInsLabel{
+	float: left;
+	width: 150px;
+}
+
+#patInfoPopInsLabel ul li,
+#patInfoPopGeneralLabels ul li,
+#patInfoPopContactLabels ul li{
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+#patInfoPopGeneralVals ul li input,
+#patInfoPopShippingInfo ul li input,
+#patInfoPopBillingInfo ul li input,
+#patInfoPopInsuranceInfo ul li input,
+#patInfoPopContactVals ul li input{
+	padding:5px;
+	margin-bottom: 4px;
+	width:100%;
+}
+
+#patInfoPopAllergies textarea{
+	width: 250px;
+	height: 98px;
+	float: left;
+	margin-top: 13px;
+}
+
+#patInfoPopGeneralVals{
+float: left;
+width: 225px;
+}
+
+#patInfoPopContactVals{
+	float: left;
+width: 200px;
+}
+
+#patInfoPopInsValue{
+float: left;
+width: 280px;
+}
+
+#patInfoPopImage{
+	float: right;
+	width: 300px;
+	margin:35px 0 0 0;
+}
+
+
+#patPopInfoNavBtns ul li{
+	float:left;
+	width:150px;
+	margin-right:15px;
+}
+
+#patInfoPopShippingInfo h4,
+#patInfoPopBillingInfo h4{
+	text-align:center;
+}
+#patInfoPopGeneralLabels{
+float: left;
+width: 71px;
+text-align: left;
+}
+#patInfoPopInformationContainer{
+	float:left;
+	clear:both;
+}
+
+#patInfoPopGeneralInfo h4,
+#patInfoPopInsuranceInfo h4,
+#patInfoPopInformationContainer h4,
+#patInfoPopAllergies h4, #patInfoPopContact h4{
+	margin-bottom:0px;
+	margin-top:0px;
+}
+
+
+#patInfoPopInsImage{
+float: left;
+height: 190px;
+width: 300px;
+}
+
+#patInfoPopContactLabels{
+	float: left;
+width: 102px;
+}
+
+#patInfoPopContact{
+	float: left;
+	clear: both;
+	width: 311px;
+}
+#patInfoPopAllergies{
+	float:left;
+	width:250px;
+	height:100px;
+	margin-left: 20px;
+}
+
+#patInfoPopLastUpdated{
+	float: right;
+	margin:26px 0 0 0;
+}
+
+#patInfoPopBtmBtns{
+	float:left;
+	clear:both;
+	text-align:center;
+}
+
+#patInfoPopBtmBtns ul li{
+	float:left;
+	margin-left:50px;
+	width:100px;
+
+}

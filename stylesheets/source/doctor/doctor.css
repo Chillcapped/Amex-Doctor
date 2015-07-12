@@ -1,0 +1,495 @@
+
+
+/*
+	Authorized User
+*/
+#authUserFormContainer input{
+	padding: 5px;
+	float:left;
+	clear:both;
+	margin-bottom:5px;
+}
+
+#authUserFormContainer p{
+	float:left;
+	clear:both;
+}
+.subTabs{
+	float: left;
+margin-bottom: 3px;
+}
+.patientBoxListItem{
+	float: left;
+  margin-right: -1px;
+  font-size: 0.9em;
+	margin-bottom: -1px !important;
+  width: 200px;
+  padding: 15px;
+  border: 1px solid #bfbfbf;
+}
+
+
+.addOfficeBtn{
+	padding: 15px;
+}
+
+#topSearchContainer{
+	float: left;
+  margin-left: 18px;
+  margin-top: 23px;
+}
+
+#logo{
+	float:left;
+}
+
+#topSearchContainer input{
+	padding: 8px;
+width: 395px;
+}
+
+#updateAccountInfoBtn{
+	float: right;
+width: 270px;
+text-align: center;
+}
+
+#docAuthorizeRxContainer{
+	float: left;
+width: 100%;
+/*height: 800px;*/
+}
+
+#authRxPreviewGeneral ul li{
+	padding:5px;
+	float:left;
+	clear:both;
+}
+
+#rxSecuritFormValidateBtn{
+float: right;
+margin-right: 10px;
+margin-top: 15px;
+padding: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.sigWrapper{
+	width:750px;
+	margin:0 auto;
+}
+#authorizeRxPreviewContents{
+	/*float: left;*/
+margin-top: 10px;
+width: 100%;
+}
+
+#rxSecurityInput{
+	float: left;
+width: 435px;
+padding: 15px;
+}
+
+
+#authLoadingContainer{
+	width: 735px;
+float: left;
+margin-top: -68px;
+}
+
+#authLoadingContainer span, #signatureLoadingContainer span{
+
+
+	position: absolute;
+margin-left: 341px;
+margin-top: -67px;
+color: royalblue;
+font-weight: 700;
+font-size: 0.8em;
+
+}
+
+#signatureLoadingContainer span{
+	position: absolute;
+margin-left: 227px;
+margin-top: -67px;
+color: royalblue;
+font-weight: 700;
+font-size: 0.8em;
+}
+#signatureLoadingContainer{
+margin-top: -124px;
+width: 638px;
+float: left;
+}
+
+#signPadFrame{
+	border: 0;
+	margin: 0 0 0 55px;
+}
+
+
+/*
+	Bulk Order
+*/
+
+#boFormControls{
+	float: left;
+	  clear: both;
+	  margin-top: 11px;
+	  width: 100%;
+	  box-sizing: border-box;
+}
+
+#boAmexPatients ul li input{
+	float: left;
+  margin-top: -2px;
+  margin-right: 8px;
+  height: 20px;
+  padding: 5px;
+  width: 20px;
+}
+
+
+#contentContainer ul li{
+	float: left;
+margin-right: -1px;
+font-size: 0.9em;
+margin-bottom: 6px;
+}
+
+#boFormControls ul li{
+	border-top: 1px solid #f7f8f8;
+border-right: 1px solid #d0d1d2;
+border-left: 1px solid #d0d1d2;
+border-bottom: 1px solid #cfd0d1;
+	width:100px;
+	padding: 15px;
+	text-align:center;
+}
+
+.boPreviewItem{
+	width: 100% !important;
+  padding: 0px !important;
+  height: 55px;
+  padding-top: 17px !important;
+  padding-right: 10px !important;
+  box-sizing: border-box;
+  padding-left: 18px !important;
+}
+
+
+#boAlertContainer{
+	float: left;
+  clear: both;
+  font-size: 13px;
+
+}
+
+.boPatientContainer{
+	float: left;
+  width: 100%;
+  text-align: left;
+}
+.boPatientInfo{
+	float:left;
+	width:500px;
+}
+.boPatientContainer span{
+	text-align: left !important;
+  width: 50% !important;
+  clear: none !important;
+}
+
+.boPatientMedContainer{
+	float: right;
+  margin-top: -8px;
+  width: 215px;
+}
+.black{
+	color:black !important;
+}
+.red{
+	color: #AB1E26 !important;
+}
+#boFormControls ul li:hover, .activeTopMenuItem li{
+	color:white;
+	background: rgb(172, 28, 37);
+}
+
+.boShippingInfo{
+	float: right;
+margin-top: -25px;
+}
+.boShippingLocContainer{
+	float: right;
+margin-top: -24px;
+width: 190px;
+}
+.boShippingLocContainer select{
+	width:100%;
+}
+.boShippingInfo span{
+	float: left;
+text-align: left !important;
+margin-top: 8px !important;
+padding-right: 55px !important;
+}
+
+.boPatientTools{
+	float: left;
+width: auto;
+
+}
+.bulkCurrentRxMedTop span{
+	float: left;
+  margin-top: 8px;
+}
+
+.bulkCurrentRxMedTop p a{
+	color: rgb(163, 40, 48);
+}
+.bulkCurrentRxMedTop font{
+	color: royalblue;
+  font-size: 23px;
+  float: left;
+  margin-left: 9px;
+  margin-top: -1px;
+  padding-top: 4px;
+  margin-right: 20px;
+}
+.patientName{
+	color: black !important;
+}
+.bulkMedItemPatients{
+	float:left;
+	width:100%;
+	margin-top:10px;
+	box-sizing:border-box;
+}
+.bulkCurrentRxMedItem{
+	width: 100%;
+  float: left;
+  margin-bottom: 17px;
+  border: 1px solid #bfbfbf;
+  padding: 15px;
+  box-shadow: 0px 1px 5px rgba(173, 173, 173, 0.36);
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.bulkCurrentRxMedTop select{
+	margin-right: 20px;
+  margin-left: 15px;
+  float: left;
+}
+.boPatientMedContainer select{
+	width: 100%;
+}
+.bulkMedItemPatients table input{
+	padding: 10px;
+  width: 100%;
+  float: left;
+  box-sizing: border-box;
+  background: white;
+  border: none;
+  box-shadow: none;
+}
+
+.bulkMedItemPatients table select{
+	text-align: center;
+text-indent: 13px;
+padding: 0px;
+width: 58px;
+height: 34px;
+}
+
+#bulkRxCurrentMedListContainer{
+	margin-top: -9px !important;
+  float: left;
+  width: 100%;
+}
+.bulkMedItemPatients table{
+	margin-top: -9px !important;
+}
+.bulkMedItemSelectRow{
+	width: 63px;
+text-align: center;
+}
+.bulkCurrentRxMedTop p{
+	font-size: 13px;
+  color: rgb(163, 40, 48);
+  font-weight: 700;
+margin-top: 7px;
+margin-bottom: 9px;
+}
+
+.bulkRxMedContainerTip{
+	float: left;
+	margin-top: 4px;
+margin-right: 18px;
+margin-bottom: 28px;
+font-weight: 700;
+font-size: 13px;
+color: rgb(163, 40, 48);
+}
+#contentContainer .tabs{
+	float: left;
+margin-bottom: -6px;
+}
+.bulkOrderContent{
+	margin-top: -25px;
+}
+
+.bulkOrderSteps{
+	float: right !important;
+position: relative !important;
+margin-top: -55px !important;
+}
+
+#addOfficeContainer{
+	width: 450px;
+	float:left;
+}
+
+
+.bulkOrderSteps .stepNumber{
+	padding-top: 7px;
+}
+
+#bulkRxAddMed{
+	float: right;
+margin-right: 496px;
+margin-top: -33px;
+}
+
+#bulkRxAddMed span{
+	padding: 10px;
+font-size: 15px;
+}
+
+#addOfficeValues{
+	width: 375px;
+}
+
+#addOfficeLabels label, #addOfficeValues input{
+	float: left;
+  width: 100%;
+  clear: both;
+  margin-bottom: 10px;
+}
+#addOfficeValues input{
+	padding: 10px !important;
+}
+#addOfficeBtmList{
+	float: left;
+margin-top: -10px;
+margin-left: 10px;
+width: 100%;
+}
+
+#addOfficeStateZip input{
+	width: 140px;
+padding: 9px;
+margin-right: 10px;
+}
+
+#addOfficeStateZip select{
+	width: 157px;
+text-align: center;
+margin-left: 5px;
+}
+
+#addOfficeLabels label{
+	height: 35px;
+  box-sizing: border-box;
+  padding-top: 11px;
+  text-align: right;
+  padding-right: 13px;
+}
+
+#addOfficeBck{
+	margin-top: 20px;
+  padding: 11px;
+  width: 105px;
+  float: left;
+  clear: both;
+  text-align: center;
+  margin-right: 176px !important;
+}
+
+#dashTopTiles{
+	float: left;
+}
+#dashTopTiles ul{
+	margin:0;
+}
+#dashActionBtns ul li{
+	width: 100%;
+padding: 5px;
+margin-bottom: 7px;
+text-align: center;
+}
+#addOfficeBtn{
+float: right;
+margin-top: 20px;
+padding: 11px;
+width: 145px;
+}
+#dashContainer{
+	float:left;
+}
+#dashActionBtns ul{
+	margin:0;
+}
+#dashActionBtns{
+	float: left;
+  width: 175px;
+  margin-left: 20px;
+}
+#dashTopTiles ul li{
+	float: left;
+  width: 103px;
+  border: 1px solid #bfbfbf;
+  padding: 10px;
+  height: 85px;
+  text-align: center;
+  margin-right: 10px;
+  border-radius: 3px;
+  box-shadow: 0px 3px 3px rgba(234, 234, 234, 0.75);
+}
+
+#dashBtm{
+	float:left;
+	width:100%;
+}
+
+#dashTop h3{
+	margin-top:0px;
+}
+
+#dashBtm table thead tr{
+	height: 20px;
+  font-size: 12px;
+}
+#dashBtm table{
+	font-size: 0.9em;
+}
+#dashBtm h3{
+	font-size:13px;
+}
+
+#dashContainer ul li span{
+	float: left;
+  clear: both;
+  font-size: 0.8em;
+}
+
+#dashContainer ul li font{
+	height: 72px;
+float: left;
+width: 100%;
+box-sizing: border-box;
+padding-top: 4px;
+font-size: 3.5em;
+color: rgb(163, 40, 48);
+}

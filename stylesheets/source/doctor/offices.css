@@ -1,0 +1,49 @@
+
+
+#officeLocations{
+    float:left;
+    clear:both;
+}
+
+#officeLocations{
+  padding:0;
+  clear:both;
+  float:left;
+  width:100%;
+}
+
+#officeLocations li{
+  float:left;
+  clear:both;
+  width:100%;
+  max-width:500px;
+  padding:20px;
+  margin-bottom:10px;
+  border-radius: 3px;
+  margin-bottom:15px;
+  border:1px solid #bfbfbf;
+}
+
+.officeAdd{
+  float:left;
+  clear:both;
+  margin-bottom:5px;
+  padding-right:10px;
+}
+
+.officeImageContainer{
+  float:left;
+  width:150px;
+  margin-right:30px;
+  height:100px;
+  border:1px solid blue;
+}
+
+.officeLocationInfo{
+  float:left;
+  border:1px solid yellow:
+}
+
+.officeToggleContainer{
+
+}

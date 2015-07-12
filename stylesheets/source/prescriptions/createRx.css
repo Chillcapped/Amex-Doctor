@@ -1,0 +1,410 @@
+	
+#createRxContainer{
+	/* width: 615px*/
+}
+#createRxSelectedPatientCnt{
+	/*width: 815px;*/
+}
+.createRxLabelList{
+float: left;
+width: 135px;
+text-align: right;
+}
+.createRxPtInputs{
+	float: left;
+	width: 250px;
+	margin-left: 10px;
+}
+
+#createRxMiddle{
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+
+.createRxSectionTitle{
+width: 100%;
+text-align: center;
+font-size: 1.4em;
+margin-top: 13px;
+margin-bottom: 36px;
+margin-top: 20px;
+}
+
+
+#createRxScriptInfo{
+	float: left;
+	margin-left: 68px;
+	margin-top: 10px;
+}
+
+#createRxScriptInfo input{
+	padding: 5px;
+	
+	
+}
+#createRxCurrentStepContainer .stepNumber{
+margin-left: 37px;
+margin-bottom: 8px;
+margin-top: 6px;
+}
+
+#createRxCurrentStepContainer ul li{
+float: left;
+width: 102px;
+}
+#writtenDateLabel{
+	margin-left: 35px;
+}
+#createRxScriptInfo label{
+	
+}
+
+#processSignatureContainer{
+	float: left;
+margin-top: 60px;
+}
+
+#createRxBtnTopContainer ul li{
+	float:left;
+	margin-right:20px;
+}	
+
+#createRxBtnBtmContainer ul{
+	margin-top: 11px;
+	float: left;
+}
+#createRxBtnPtMenu{
+	clear: both;
+	width: 578px;
+	margin: auto;
+}
+
+
+
+#createRxBtnTopContainer{
+	margin-bottom: 10px;
+	width: 578px;
+	margin: auto;
+}
+
+#submitRxBtn{
+}
+
+#createRxBtnTopContainer ul{
+float: left;
+margin-top: -10px;
+clear: both;
+margin-bottom: 30px;
+}
+
+#createRxTop h4{
+	margin-bottom: 0px;
+	margin-left: 26px;
+	margin-top: 0px;
+}	
+
+
+#createRxBtnPtMenu ul li{
+	float:left;
+	margin-right:20px;
+}
+
+.ingredientInput{
+	float: left;
+	width: 100%;
+}
+.ingredientTD{
+/*	position: absolute;
+	width: 200px;
+	margin-left: -350px;
+	border: 0;
+	border-top: 0px !important;*/
+	font-size: 0.85em;
+}
+
+.ingredientPercTD{
+/*	margin-left: -29px;
+	padding: 8px !important;
+	width: 218px;
+	background: white;
+	padding-right: 0px !important;
+	padding-left: 0px !important;*/
+}
+
+.createRxPtInfo{
+	float:left;
+}
+
+.refillRxInput{
+	width:45px !important;
+}
+.rxItemName{
+	text-align:left !important;
+}
+#rxInfoContainer table input{
+	padding: 5px;
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-size: 0.75em;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.addIngredientRxTableBtn{
+	float:right;
+	margin-right:25px;
+}
+#rxInfoContainer table tr{
+	height:30px;
+}
+#rxInfoContainer table tr td{
+	
+}
+#rxInfoContainer table thead tr{
+	
+	color:white;
+}
+
+.createRxLabelList ul li, .insuranceInfoListItems ul li{
+padding: 1px;
+padding-top: 6px;
+margin-bottom: 5px;
+}
+
+.createRxPtInputs input{
+	padding: 5px;
+	margin-bottom: 5px;
+	width: 100%;
+}
+.ammountRxInput{
+/*	width:115px !important;*/
+}
+.insuranceInfoListItems{
+	float: left;
+	width: 135px;
+	text-align: right;
+}
+.createRxContentItem{
+	background: #e8e9ea;
+	overflow: hidden;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	padding: 0px 10px 30px 10px;
+
+}
+#rxInfoContainer table {
+	margin: auto;
+	width: 900px;
+	margin-bottom: 25px;
+}
+#rxSecurityCodeContainer{
+	height: 235px;
+margin: auto;
+width: 445px;
+margin-top: 100px;
+}
+
+#rxSecurityCodeContainer p{
+	font-size: 0.9em;
+}
+
+#emptyRxRow{
+	border-bottom:0px !important;
+	border-top:0px !important;
+	border-left:0px !important;
+	border-right:0px !important;
+}
+
+#createRxROATH{
+	width: 65px;
+	text-align:center;
+}
+#createRxNameTH{
+	width: 200px;
+}
+
+#noItemsAddedTD{
+	position: absolute;
+	width: 880px;
+	text-align: center;
+	/*padding: 6px;*/
+	border:0px;
+}
+
+#createRxTotalTH{
+	width: 160px;
+	text-align: center;
+}
+
+#createRxDosageTH{
+	width:100px;
+	text-align: center;
+}
+#createRxSelectContainer h2{
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+	text-align: center;
+}
+#createRxTableContainer table tbody tr{
+	background: #ffffff;
+	height: 40px;
+	border-bottom: 1px solid #bfbfbf;
+	border-left: 1px solid #bfbfbf;
+	border-right: 1px solid #bfbfbf;
+}
+#choosePatientRxContainer{
+	clear: both;
+	margin:0 auto;
+}
+
+#choosePatientRxContainer h4{
+	clear: both;
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+}
+#createRxIntervalTH{
+	width:100px;
+	text-align: center;
+}
+
+
+
+
+#createRxRefillTH{
+	width: 55px;
+	text-align: center;
+}
+
+#choosePatientRxContainer input{
+	padding:5px;
+	margin-bottom:5px;
+	float:right;
+}
+#choosePatientRxContainer label{
+	float:left;
+	clear:both;
+	width:100px;
+	font-size:12px;
+	text-align: right;
+	margin:5px 0 0 0;
+}
+
+#choosePatientRxContainer ul li,
+#bottomMenu ul li{
+	float:left;
+	margin-right:15px;
+}
+
+#createRxBtm{
+	min-height: 190px;
+}
+
+.patientInfoSelect{
+	margin-top: -31px;
+margin-left: 13px;
+width: 249px;
+}
+
+#btmChoosePatientMenu{
+	margin: 20px auto 0 auto;
+	width: 620px;
+	padding:0 0 0 24px;
+}
+
+#btmChoosePatientMenu ul li{
+	float: left;
+	margin-right: 35px;
+}
+#createRxBtnBtmContainer{
+width: 526px;
+margin: auto;
+margin-top: 0px;
+clear: both;
+padding-bottom: 20px;
+}
+#createRxBtnBtmContainer ul li{
+	float: left;
+}
+.patientSelectContainer{
+	float: left;
+clear: both;
+margin-top: 42px;
+width: 100%;
+margin-left: 11px;
+}
+
+.createRxPtInfo label{
+	font-size: 0.9em;
+}
+#medBrowseContainer{
+	clear: both;
+	background: white;
+	padding-top: 0px;
+	border: 1px solid #bfbfbf;
+	min-height: 185px;
+}
+
+#medBrowseContainer h4{
+	margin-top: 10px;
+}
+
+#medBrowseContainer ul{
+	list-style-image: url('/images/blueListArrow.png');
+	padding-left: 25px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#medBrowseContainer ul li{
+	margin-bottom: 15px;
+	float: left;
+	margin-right: 60px;
+	width: 180px;
+}
+
+#medBrowseContentContainer{
+	float: left;
+	width: 580px;
+}
+
+#createRxAjaxNav{
+	float: right;
+	width: 270px;
+}
+
+.createRxPtInfo{
+
+	width:49%;
+	float:left;
+}
+
+#createRxAuthorizeRxContainer{
+	float: left;
+width: 850px;
+clear: both;
+margin-top: 56px;
+margin-left: 34px;
+}
+
+#createRxStepContentContainer{
+	background: #e8e9ea;
+overflow: auto;
+-webkit-border-radius: 7px;
+-moz-border-radius: 7px;
+border-radius: 7px;
+padding: 10px;
+padding-top: 0px;
+}
+#createRxCurrentStepContainer{
+float: left;
+position: absolute;
+margin-top: -5px;
+margin-left: 10px;
+
+}

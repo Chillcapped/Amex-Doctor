@@ -1,0 +1,80 @@
+
+
+/*
+	Globally used User profiles
+*/
+
+
+#accountUserinfo{
+	float: left;
+	width: 450px;
+	height: 495px;
+}
+
+#accountUserAvatarContainer{
+	float: left;
+  text-align: center;
+  width: 195px;
+  margin-top: 30px;
+  clear: both;
+}
+
+
+#userAvatarContainer img{
+margin:auto;
+margin-bottom: 15px;
+border-radius: 50%;
+border: 3px solid #a32830;
+box-shadow: 0px 1px 7px 0px rgba(55, 55, 55, 0.3);
+height: 100px;
+width: 125px;
+}
+
+#contentContainer h4{
+	padding-left:0px;
+}
+
+#userAvatarContainer a{
+	float: left;
+	clear: both;
+}
+
+#accountUserInfo input{
+	padding: 5px;
+float: right;
+width: 260px;
+}
+
+#accountUserInfo ul li{
+	padding:5px;
+	float:left;
+	width:100%;
+}
+
+#updateAccountInfoBtn{
+	width: 100%;
+	float: left;
+	clear: both;
+	text-align: center;
+}
+
+#accountInfoContainer{
+	float: left;
+  width: 500px;
+  padding-left: 35px;
+}
+
+
+#accountInfoContainer ul li{
+	padding:5px;
+font-size: 1em;
+}
+
+#accountInfoContainer ul li label{
+	color: rgb(0, 123, 226);
+}
+
+#accountInfoContainer ul li i{
+  color: rgb(58, 58, 58);
+font-size: 1.2em;
+}

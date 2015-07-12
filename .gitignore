@@ -1,0 +1,5 @@
+/bower_components/*
+.tmp_404.html.25153~
+*.rar
+.settings
+aspnet_client
